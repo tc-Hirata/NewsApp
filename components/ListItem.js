@@ -28,7 +28,7 @@ export const ListItem = (props) => {
       </View>
     </TouchableOpacity>
   );
-}
+};
 
 const styles = StyleSheet.create({
   itemContainer: {
